@@ -1,6 +1,6 @@
 # contador
 
-A new Flutter project.
+Amanda Alves
 
 ## Getting Started
 
